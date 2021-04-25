@@ -4,4 +4,4 @@
 ### simple docker commands
 
 * docker build -t java-app . 
-* docker run -p 8080:8080 java-app
+* docker run java-app example.txt HTML
